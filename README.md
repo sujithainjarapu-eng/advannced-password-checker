@@ -1,5 +1,4 @@
-# Log-Analysis-Projects-for-Beginners
-
+# Log-Analysis-Projects-for-medium
 Welcome to the Cybersecurity Training Projects repository! This repository contains hands-on projects designed for beginners to learn and practice essential cybersecurity skills, focusing on vulnerability management, incident response, and log analysis.
 
 ## Introduction
