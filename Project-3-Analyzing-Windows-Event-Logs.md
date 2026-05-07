@@ -1,4 +1,4 @@
-# Project 3: Analyzing Windows Event Logs for Security information
+# Project 3: Analyzing Windows Event Logs for Security incidents
 
 ## Introduction
 In this project, students will learn the basics of analyzing Windows Event Logs to detect and investigate security incidents. Windows Event Logs are a valuable source of information about system activities, user actions, and potential security issues. By the end of this project, students will be able to access and interpret event logs, identify security-related events, and use event log analysis to support incident response.
@@ -79,4 +79,3 @@ In this project, students will learn the basics of analyzing Windows Event Logs 
 - Advanced analysis of event logs using Log Parser Studio, with queries that extract and summarize key information from security events.
 
 By completing these exercises, students will gain hands-on experience in accessing, filtering, and analyzing Windows Event Logs to detect and investigate security incidents. These skills are essential for effective incident response and system security monitoring.
-by using kali linux
